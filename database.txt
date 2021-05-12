@@ -1,0 +1,13 @@
+RO1,Metformin,Rp. 19.300.00,90
+R02,Amlodipine,Rp. 14.600.00,20
+R03,Diovan,Rp. 264.600.00,50
+G01,Forumen,Rp. 62.600.00,173
+B01,Peditox,Rp. 23.400.00,60
+G02,Efisol-c,Rp. 27.500.00,576
+G03,Nystatin,Rp. 26.100.00,177
+B02,Sandatex,Rp. 38.700.00,157
+B03,Vermoran,Rp. 16.500.00,50
+R04,Aspilets,Rp. 27.800.00,119
+R05,Ascardia,Rp. 29.600.00,181
+PND,Panadol,Rp. 8.900.00,35
+PNDM,Panadol Merah,Rp. 19.000.00,100
